@@ -4,7 +4,7 @@ const countTasks = require('./task-utils').countTasks
 module.exports = function (dv) {
   const rows = dv.pages(`${config.TAG_ACTION_DONE} OR ${config.TAG_ACTION_CANCELED}`)
     .filter(row => {
-      return row.project && row.project.path === dv.current().file.name
+      return row.project && row.project.path === dv.current().file.path
     })
     .sort(row => row.end_date, "desc")
     .map(row => {
