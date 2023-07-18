@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "3c260d22c0cb10c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f1b911f75d861ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f92ff8ec08acac49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ca208ec2278d53bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "a27fc3286824fc55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edb11df1d758794c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1829179951c8c2c8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#action/waiting",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df3194c48cb82cb6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 181
+  },
+  "right": {
+    "id": "59678ec75d00a0d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "75be5eff4e4d4aa2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5067d9e3f59933c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "327c699e78f714ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "97e7aebdbf68bdd2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9b6c5389369c4f83",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f92ff8ec08acac49",
+  "lastOpenFiles": [
+    "README.md",
+    "Project 3 (Blank).md",
+    "Project 4 (Archived).md",
+    "Project 5 (Blocked).md",
+    "Project 2.md",
+    "Project 1.md",
+    "000 Project View.md",
+    "000 Action View.md",
+    "README_zh.md",
+    "999 Archived Projects.md"
+  ]
+}
